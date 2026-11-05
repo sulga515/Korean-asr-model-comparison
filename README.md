@@ -7,8 +7,8 @@
 
 ## 2. Models
 
--Whisper Large-v3-turbo
--Korean Conformer CTC (SungBeom/stt_kr_conformer_ctc_medium)
+- Whisper Large-v3-turbo
+- Korean Conformer CTC (SungBeom/stt_kr_conformer_ctc_medium)
 
 ## 3. Experiment
 
@@ -23,10 +23,10 @@ Slow/Fast : 발화 속도 변화
 
 ## 4. Key results
 
--Normal 조건에서 Whisper의 WER은 3.89%, Conformer는 8.40%로 나타났습니다.
--Noise 조건에서 두 모델 모두 인식 오류가 증가했습니다.
--Fast 조건에서 Whisper의 WER은 6.23%, Conformer는 12.17%로 나타났습니다.
--Conformer는 Slow 조건에서 WER 기준으로 근소하게 우세했지만 CER에서는 Whisper가 낮은 오류율을 보였습니다.
+- Normal 조건에서 Whisper의 WER은 3.89%, Conformer는 8.40%로 나타났습니다.
+- Noise 조건에서 두 모델 모두 인식 오류가 증가했습니다.
+- Fast 조건에서 Whisper의 WER은 6.23%, Conformer는 12.17%로 나타났습니다.
+- Conformer는 Slow 조건에서 WER 기준으로 근소하게 우세했지만 CER에서는 Whisper가 낮은 오류율을 보였습니다.
 
 ## 5. Conclusion
 
